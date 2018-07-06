@@ -16,7 +16,17 @@ This project draws heavy inspiration from UNSW CS3231 - Operating Systems course
 
 ### Assumptions
 
-This project assumes that you are familiar with memory layout, particularly the use of pointers in the context of C. It also assumes that you are reasonably comfortable with the prospect of wrtincg C, and being exposed to advanced C code.
+* git installed
+* gcc installed
+* Ubuntu 14
+
+As well as that, some useful skills include
+
+* Basic git [Interactive Lessons](learngitbranching.js.org).
+* Intermediate C, particularly pointers [High-Quality free course](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* **Basic** assembly, preferably mips.
+* Linux terminal TODO: Find good resource
+
 
 
 

@@ -16,7 +16,10 @@ By the end of this chapter, you will:
 * Dependencies missing if using Ubuntu later than v14
 * Some automatic processes not yet complete.
 
-TODO: insert statement that assumtions are going to be ~/os161 as project root.
+```text
+This book assumes your project is run in $(HOME)/os161/
+The next chapter describes how to change this.
+```
 
 ### Familiarisation
 
