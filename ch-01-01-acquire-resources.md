@@ -1,7 +1,7 @@
 # Acquiring the project resources
 
 Completing this section will have the content core to your project on your
-system, as well as the toolchain usehttps://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50xd in os161 development. Cloning the git
+system, as well as the toolchain used in os161 development. Cloning the git
 repo, you can jump between branches specific to a certain learning project provided, 
 make your own branches, or whatever you feel like doing!
 
